@@ -5,5 +5,5 @@
 	path = subprojects/grlx-rpc
 	url = git@github.com:grlx-labs/grlx-rpc.git
 [submodule "cereal-patches"]
-	path = subprojects/packagefiles/cereal
+	path = subprojects/packagefiles/cereal-patches
 	url = https://github.com/grlx-labs/cereal-patches.git

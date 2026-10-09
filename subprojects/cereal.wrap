@@ -6,7 +6,7 @@ url = https://github.com/USCiLab/cereal.git
 # never `master` -- an unpinned branch silently breaks fresh clones.
 revision = 22a1b369f39be918ca79206a83c4facd759f9105
 
-patch_filename = cereal.tar.gz
+patch_directory = cereal
 
 [provide]
 cereal = cereal_dep
